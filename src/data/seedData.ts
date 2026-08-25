@@ -1,4 +1,4 @@
-import { ExistingRule, CodeModule, SyntheticApplicant, RuleProposal } from '../types';
+import type { ExistingRule, CodeModule, SyntheticApplicant, RuleProposal } from '../types.js';
 
 export const SEED_EXISTING_RULES: ExistingRule[] = [
   // --- Eligibility ---
