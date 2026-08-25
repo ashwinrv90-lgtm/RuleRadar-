@@ -1,0 +1,6 @@
+{
+  "name": "RuleRadar",
+  "description": "AI-powered Credit Policy Rule Impact & Audit platform for Loan Origination Systems (LOS) in personal loans & unsecured lending.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
